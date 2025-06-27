@@ -32,8 +32,8 @@ All screenshots used during the scraping process are available in the `images/` 
    cd your-repo-name
 
 2.Install dependencies:
-'''bash
+```bash
 pip install requests beautifulsoup4 pandas
 
-3.Open the Jupyter Notebook and run the ceels
-jupyter notebook Web\ Scrapping\ with\ Python.ipynb
+
+
